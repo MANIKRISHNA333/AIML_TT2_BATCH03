@@ -9,11 +9,10 @@
 
 | Name | Roll No. | Responsibility |
 |------|----------|----------------|
-| Member 1 | | ER diagram and schema design |
-| Member 2 | | Table creation (DDL) and constraints |
-| Member 3 | | Sample data and CRUD (DML) |
-| Member 4 | | Queries, views and reports (DQL) |
-| Member 5 | | Documentation, PPTs and video |
+| Member 1 |B. SRI RAM KISHAN | ER diagram and schema design |
+| Member 2 |ACHANTA MANI KRISHNAN| Table creation (DDL) ,constraints and Sample data|
+| Member 3 |MADDIPATI BHUVANA VENKATA JASWANTH  | CRUD (DML),Queries, views and reports (DQL) |
+| Member 4 | CHINTALAPUDI VENKATA KOUSHIK | Documentation, PPTs and video |
 
 ## Problem Statement
 
